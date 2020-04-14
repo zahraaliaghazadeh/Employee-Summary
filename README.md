@@ -16,7 +16,7 @@ This project includes html files,test files and javascript files for backend cod
 
 
 ## Screenshots
-![sample](assets/gif1.gif)
+![gif](Assets/gif1.gif)
 
 ## Technologies
 * Tech 1 - jest test package [jest](https://www.npmjs.com/package/jest)
