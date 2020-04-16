@@ -16,7 +16,7 @@ This project includes html files,test files and javascript files for backend cod
 
 
 ## Screenshots
-![gif](Assets/gif1.gif)
+![gif](Assets/gif2.gif)
 
 ## Technologies
 * Tech 1 - jest test package [jest](https://www.npmjs.com/package/jest)
@@ -38,7 +38,7 @@ After installations, Once you download the files, You can open the terminal and 
 
 
 To-do list:
-* Improvement to be done : Right now my app has a bug which is basically only appending the last employee info to the html page.
+
 * Improvement to be done : This application can be improved in its UI design.
 
 
